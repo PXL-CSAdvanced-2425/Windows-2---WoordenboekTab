@@ -21,11 +21,9 @@ berichtenvenster en na 3 pogingen wordt de toepassing afgesloten.
 
 ![Afbeelding met tekst, schermopname, Lettertype, lijn Automatisch
 gegenereerde
-beschrijving](./images/media/image1.png){width="1.8079997812773403in"
-height="1.1948523622047245in"}![Afbeelding met tekst, schermopname,
+beschrijving](./images/media/image1.png)![Afbeelding met tekst, schermopname,
 Lettertype, software Automatisch gegenereerde
-beschrijving](./images/media/image2.png){width="4.278865923009624in"
-height="2.4115791776027997in"}
+beschrijving](./images/media/image2.png)
 
 **3 MainWindow**
 
@@ -47,13 +45,10 @@ height="2.4115791776027997in"}
 
 ![Afbeelding met tekst, schermopname, scherm, software Automatisch
 gegenereerde
-beschrijving](./images/media/image3.png){width="1.2879997812773403in"
-height="0.8159995625546806in"}
+beschrijving](./images/media/image3.png)
 
 ![Afbeelding met tekst, schermopname, software, scherm Automatisch
-gegenereerde beschrijving](./images/media/image4.png){width="6.3in"
-height="3.5506944444444444in"}
+gegenereerde beschrijving](./images/media/image4.png)
 
 ![Afbeelding met tekst, schermopname, software, scherm Automatisch
-gegenereerde beschrijving](./images/media/image5.png){width="6.3in"
-height="3.5506944444444444in"}
+gegenereerde beschrijving](./images/media/image5.png)
