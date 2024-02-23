@@ -1,6 +1,6 @@
 # WoordenboekTab
 
-Gebruik de vensters van je vorige toepassing en hanteer nu een
+Gebruik de vensters van oefening 5-Woordenboek en hanteer nu een
 *TabControl* ipv meerdere vensters. Gebruik volgende onderdelen voor je
 toepassing.
 
