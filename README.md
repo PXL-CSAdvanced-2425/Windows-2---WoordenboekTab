@@ -51,5 +51,4 @@ beschrijving](./images/media/image4.png)
 
 ![Afbeelding met tekst, schermopname, scherm, software Automatisch
 gegenereerde
-beschrijving](./images/media/image5.png){width="5.2277646544181975in"
-height="3.252389545056868in"}
+beschrijving](./images/media/image5.png)
