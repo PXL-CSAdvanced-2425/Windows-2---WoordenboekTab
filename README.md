@@ -43,10 +43,6 @@ beschrijving](./images/media/image2.png)
 -   Onder het menuItem Help kan een dialoogvenser *Over...* openen met
     Assembly informatie.
 
-![Afbeelding met tekst, schermopname, scherm, software Automatisch
-gegenereerde
-beschrijving](./images/media/image3.png)
-
 ![Afbeelding met tekst, schermopname, software, scherm Automatisch
 gegenereerde beschrijving](./images/media/image4.png)
 
