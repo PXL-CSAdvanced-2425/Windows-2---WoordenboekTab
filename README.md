@@ -34,7 +34,7 @@ beschrijving](./images/media/image2.png)
 
 -   Gebruik Dockpanel voor het menu, tabcontrol en statusbalk
 
--   Lege tekstvakken op het 2^de^ tabblad als het 2^de^ tabblad actief
+-   Tekstvakken op het 2de tabblad leegmaken als het 2de tabblad actief
     wordt.
 
 -   Tabblad 2 moet actief worden wanneer de menu-optie Toevoegen (onder
